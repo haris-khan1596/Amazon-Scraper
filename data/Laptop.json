@@ -1,0 +1,835 @@
+[
+    {
+        "title": "SAMSUNG 14\" Galaxy Book4 Pro Laptop PC Computer, Intel Core 7 Ultra Processor 512GB, 3K AMOLED (2880 x 1800) Touchscreen, Advanced Security, 2024 Model, NP940XGK-KG1US, Moonstone Gray",
+        "reviews": "4.0 out of 5 stars",
+        "price": "1,400.",
+        "image_url": "https://m.media-amazon.com/images/I/6131ZgIFn1L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:16"
+    },
+    {
+        "title": "HP Notebook Laptop, 15.6\" HD Touchscreen, Intel Core i3-1115G4 Processor, 32GB RAM, 1TB PCIe SSD, Webcam, Type-C, HDMI, SD Card Reader, Wi-Fi, Windows 11 Home, Silver",
+        "reviews": "4.2 out of 5 stars",
+        "price": "439.",
+        "image_url": "https://m.media-amazon.com/images/I/61oAh3XrX+L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:16"
+    },
+    {
+        "title": "HP 14 Laptop, Intel Celeron N4020, 4 GB RAM, 64 GB Storage, 14-inch Micro-edge HD Display, Windows 11 Home, Thin & Portable, 4K Graphics, One Year of Microsoft 365 (14-dq0040nr, Snowflake White)",
+        "reviews": "3.9 out of 5 stars",
+        "price": "187.",
+        "image_url": "https://m.media-amazon.com/images/I/815uX7wkOZS._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:16"
+    },
+    {
+        "title": "Dell Inspiron 15 3000 3520 Business Laptop Computer[Windows 11 Pro], 15.6'' FHD Touchscreen, 11th Gen Intel Quad-Core i5-1135G7, 16GB RAM, 1TB PCIe SSD, Numeric Keypad, Wi-Fi, Webcam, HDMI, Black",
+        "reviews": "4.0 out of 5 stars",
+        "price": "503.",
+        "image_url": "https://m.media-amazon.com/images/I/71gbrvRJI-L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:16"
+    },
+    {
+        "title": "HP 17 Laptop, 17.3\u201d HD+ Display, 11th Gen Intel Core i3-1125G4 Processor, 32GB RAM, 2TB SSD, Wi-Fi, HDMI, Webcam, Windows 11 Home, Silver",
+        "reviews": "4.3 out of 5 stars",
+        "price": "538.",
+        "image_url": "https://m.media-amazon.com/images/I/71CDSpds6jL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:16"
+    },
+    {
+        "title": "HP 15.6\" Diagonal Full HD (1920 x 1080) Laptop, 11th Gen Intel Core i5-1135G7 Processor, 8GB DDR4 RAM, 256GB SSD, 802.11ac, Bluetooth, HDMI, Windows 11",
+        "reviews": "4.3 out of 5 stars",
+        "price": "392.",
+        "image_url": "https://m.media-amazon.com/images/I/61lf6OAhnLL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:16"
+    },
+    {
+        "title": "Acer USB Type-C Dock D501 Certified Works With Chromebook | 2x HDMI 2.0 | 2x DP | 1 x USB Type-C | 2 x USB 3.1 Gen2 | 4 x USB 3.1 Gen1 | Ethernet | Requires USB 3.1 Type A or USB Type-C on Computer",
+        "reviews": "4.2 out of 5 stars",
+        "price": "157.",
+        "image_url": "https://m.media-amazon.com/images/I/719Y+8bstJL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:16"
+    },
+    {
+        "title": "HP Newest Pavilion 15.6\" HD Touchscreen Anti-Glare Laptop, 16GB RAM, 1TB SSD Storage, Intel Core Processor up to 4.1GHz, Up to 11 Hours Long Battery Life, Type-C, HDMI, Windows 11 Home, Silver",
+        "reviews": "4.2 out of 5 stars",
+        "price": "428.",
+        "image_url": "https://m.media-amazon.com/images/I/71aTEZOda0L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:16"
+    },
+    {
+        "title": "Dell Newest Inspiron 15 3511 Laptop, 15.6\" FHD Touchscreen, Intel Core i5-1035G1, 12GB RAM, 256GB PCIe NVMe M.2 SSD, SD Card Reader, Webcam, HDMI, WiFi, Windows 11 Home, Black",
+        "reviews": "4.2 out of 5 stars",
+        "price": "418.",
+        "image_url": "https://m.media-amazon.com/images/I/71lsq9TesJL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:16"
+    },
+    {
+        "title": "Targus CityLite Laptop Briefcase Shoulder Messenger Bag for 15.6-Inch Laptop, Black (TBT053US)",
+        "reviews": "4.6 out of 5 stars",
+        "price": "36.",
+        "image_url": "https://m.media-amazon.com/images/I/718IO7MawyL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:16"
+    },
+    {
+        "title": "Lenovo IdeaPad 1 14 Laptop, 14.0\" HD Display, Intel Celeron N4020, 4GB RAM, 64GB Storage, Intel UHD Graphics 600, Win 11 in S Mode, Cloud Grey",
+        "reviews": "3.7 out of 5 stars",
+        "price": "158.",
+        "image_url": "https://m.media-amazon.com/images/I/71bphKmt0DL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:16"
+    },
+    {
+        "title": "Dell Latitude 7430 2-in-1 Business Laptop (14\" FHD Touchscreen, Intel 10-Core i7-1265U, 16GB RAM, 512GB SSD, Active Pen) Backlit, Fingerprint, 3-Yr WRT, Webcam, 2024 Latitude 7000, Win 11 Pro, Gray",
+        "reviews": "4.8 out of 5 stars",
+        "price": "949.",
+        "image_url": "https://m.media-amazon.com/images/I/61zdtNcwj-L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:16"
+    },
+    {
+        "title": "ZAGG Pro Keys Detachable Case and Wireless Keyboard for Apple iPad Pro 10.2\", Multi-Device Bluetooth Pairing, Backlit Laptop-Style Keys, Apple Pencil Holder, 6.6ft Drop Protection, Lightweight, Black",
+        "reviews": "4.3 out of 5 stars",
+        "price": "69.",
+        "image_url": "https://m.media-amazon.com/images/I/71QnBnTSMjL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:16"
+    },
+    {
+        "title": "Alienware Pro Wireless Gaming Keyboard - Bluetooth 5.1/2.4 GHz Radio Frequency Connectivity, Linear Mechanical, Hot-swappable switches, Tri Mode connectivity, Adjustable Height - Lunar Light",
+        "reviews": "4.4 out of 5 stars",
+        "price": "199.",
+        "image_url": "https://m.media-amazon.com/images/I/7101PJa80yL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:16"
+    },
+    {
+        "title": "StarTech.com HDMI/DP Triple 4k USB C Dock - 5X USB Hub - GbE - 100W PD - Universal Multi Monitor Docking Station - Thunderbolt 3/4 Compatible (116N-USBC-DOCK)",
+        "reviews": "3.9 out of 5 stars",
+        "price": "238.",
+        "image_url": "https://m.media-amazon.com/images/I/71Bngo6VqFL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:16"
+    },
+    {
+        "title": "ZAGG Pro Keys Detachable Case and Wireless Keyboard for Apple iPad Pro 10.2\", Multi-Device Bluetooth Pairing, Backlit Laptop-Style Keys, Apple Pencil Holder, 6.6ft Drop Protection, Lightweight, Black",
+        "reviews": "4.3 out of 5 stars",
+        "price": "69.",
+        "image_url": "https://m.media-amazon.com/images/I/71QnBnTSMjL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:20"
+    },
+    {
+        "title": "Targus CityLite Laptop Briefcase Shoulder Messenger Bag for 15.6-Inch Laptop, Black (TBT053US)",
+        "reviews": "4.6 out of 5 stars",
+        "price": "36.",
+        "image_url": "https://m.media-amazon.com/images/I/718IO7MawyL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:20"
+    },
+    {
+        "title": "Dell Inspiron 3511 Laptop, 15.6\" Full HD Touchscreen, Intel Core i5-1135G7 (Beats Intel i7-1065G7), 32GB DDR4 RAM, 1TB PCIe SSD, SD Card Reader, HDMI, Wi-Fi, Windows 11 Home, Black",
+        "reviews": "3.9 out of 5 stars",
+        "price": "527.",
+        "image_url": "https://m.media-amazon.com/images/I/719yYrijeKL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:20"
+    },
+    {
+        "title": "Dell Latitude 7430 2-in-1 Business Laptop (14\" FHD Touchscreen, Intel 10-Core i7-1265U, 16GB RAM, 512GB SSD, Active Pen) Backlit, Fingerprint, 3-Yr WRT, Webcam, 2024 Latitude 7000, Win 11 Pro, Gray",
+        "reviews": "4.8 out of 5 stars",
+        "price": "949.",
+        "image_url": "https://m.media-amazon.com/images/I/61zdtNcwj-L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:20"
+    },
+    {
+        "title": "Samsung 16\" Galaxy Book4 Pro Business Laptop, Wi-Fi PC Computer, Windows 11 PRO, Intel Core 7 Ultra 155H / 32GB / 1TB, 3K AMOLED Touchscreen, 2024 Model, NP964XGK-KG1US, Moonstone Gray",
+        "reviews": "4.4 out of 5 stars",
+        "price": "1,699.",
+        "image_url": "https://m.media-amazon.com/images/I/71ysHVMH4FL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:20"
+    },
+    {
+        "title": "Dell Inspiron 15 3511 15.6 Inch Laptop, Full HD LED Non-Touch WVA Display - Intel Core i3-1115G4, 8GB DDR4 RAM, 256GB SSD, UHD Graphics, Windows 11 Home - Carbon Black",
+        "reviews": "4.1 out of 5 stars",
+        "price": "362.",
+        "image_url": "https://m.media-amazon.com/images/I/81x8wuiiloS._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:20"
+    },
+    {
+        "title": "Lenovo 2022 Newest Ideapad 3 Laptop, 15.6\" HD Touchscreen, 11th Gen Intel Core i3-1115G4 Processor, 8GB DDR4 RAM, 256GB PCIe NVMe SSD, HDMI, Webcam, Wi-Fi 5, Bluetooth, Windows 11 Home, Platinum Grey",
+        "reviews": "4.3 out of 5 stars",
+        "price": "326.",
+        "image_url": "https://m.media-amazon.com/images/I/81M05PyYgYL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:20"
+    },
+    {
+        "title": "SAMSUNG 14\" Galaxy Book4 Pro Laptop PC Computer, Intel Core 7 Ultra Processor 512GB, 3K AMOLED (2880 x 1800) Touchscreen, Advanced Security, 2024 Model, NP940XGK-KG1US, Moonstone Gray",
+        "reviews": "4.0 out of 5 stars",
+        "price": "1,400.",
+        "image_url": "https://m.media-amazon.com/images/I/6131ZgIFn1L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:20"
+    },
+    {
+        "title": "Acer USB Type-C Dock D501 Certified Works With Chromebook | 2x HDMI 2.0 | 2x DP | 1 x USB Type-C | 2 x USB 3.1 Gen2 | 4 x USB 3.1 Gen1 | Ethernet | Requires USB 3.1 Type A or USB Type-C on Computer",
+        "reviews": "4.2 out of 5 stars",
+        "price": "157.",
+        "image_url": "https://m.media-amazon.com/images/I/719Y+8bstJL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:20"
+    },
+    {
+        "title": "Lenovo 2022 Newest Ideapad 3 Laptop, 15.6\" HD Touchscreen, 11th Gen Intel Core i3-1115G4 Processor, 8GB DDR4 RAM, 256GB PCIe NVMe SSD, HDMI, Webcam, Wi-Fi 5, Bluetooth, Windows 11 Home, Almond",
+        "reviews": "4.3 out of 5 stars",
+        "price": "326.",
+        "image_url": "https://m.media-amazon.com/images/I/61QGMX0Qy6L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:20"
+    },
+    {
+        "title": "Lenovo Newest Flagship Chromebook, 14'' FHD Touchscreen Slim Thin Light Laptop Computer, 8-Core MediaTek Kompanio 520 Processor, 4GB RAM, 64GB eMMC, WiFi 6,Chrome OS+HubxcelAccesory, Abyss Blue",
+        "reviews": "4.4 out of 5 stars",
+        "price": "233.",
+        "image_url": "https://m.media-amazon.com/images/I/61KlKRdsQ7L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:20"
+    },
+    {
+        "title": "HP 15.6\" Touchscreen Flagship HD Laptop for Business, Intel i3-1115G4 up to 4.1GHz (Beat i5-1035G4), 16GB RAM, 1TB NVMe SSD, Fast Charge, Numpad, Bluetooth, Wi-Fi, HDMI, Win 11,w/GM Accessories",
+        "reviews": "4.2 out of 5 stars",
+        "price": "417.",
+        "image_url": "https://m.media-amazon.com/images/I/61eH16qoLYL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:20"
+    },
+    {
+        "title": "SAMSUNG 16\" Galaxy Book4 Pro Laptop PC Computer, Intel Core 7 Ultra Processor 1TB, 3K AMOLED (2880 x 1800) Touchscreen, Advanced Security, 2024 Model, NP960XGK-KG1US, Moonstone Gray",
+        "reviews": "4.5 out of 5 stars",
+        "price": "1,399.",
+        "image_url": "https://m.media-amazon.com/images/I/71ysHVMH4FL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:20"
+    },
+    {
+        "title": "Alienware Pro Wireless Gaming Keyboard - Bluetooth 5.1/2.4 GHz Radio Frequency Connectivity, Linear Mechanical, Hot-swappable switches, Tri Mode connectivity, Adjustable Height - Lunar Light",
+        "reviews": "4.4 out of 5 stars",
+        "price": "199.",
+        "image_url": "https://m.media-amazon.com/images/I/7101PJa80yL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:20"
+    },
+    {
+        "title": "Lenovo USB-C Slim Travel Dock, 8 Ports, Up to 65W PD Pass Through, Integrated USB-C Cable, 4K Display Support, Black",
+        "reviews": "4.7 out of 5 stars",
+        "price": "49.",
+        "image_url": "https://m.media-amazon.com/images/I/51bkf0SxMhL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:20"
+    },
+    {
+        "title": "Kensington MagPro Elite Magnetic Privacy Screen for MacBook Pro 16\u201d M1/M2 2021 & Newer (K58371WW)",
+        "reviews": "4.0 out of 5 stars",
+        "price": "68.",
+        "image_url": "https://m.media-amazon.com/images/I/51MH6AHg8cL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:25"
+    },
+    {
+        "title": "Acer USB Type-C Dock D501 Certified Works With Chromebook | 2x HDMI 2.0 | 2x DP | 1 x USB Type-C | 2 x USB 3.1 Gen2 | 4 x USB 3.1 Gen1 | Ethernet | Requires USB 3.1 Type A or USB Type-C on Computer",
+        "reviews": "4.2 out of 5 stars",
+        "price": "157.",
+        "image_url": "https://m.media-amazon.com/images/I/719Y+8bstJL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:25"
+    },
+    {
+        "title": "SAMSUNG 16\" Galaxy Book4 Pro Laptop PC Computer, Intel Core 7 Ultra Processor 1TB, 3K AMOLED (2880 x 1800) Touchscreen, Advanced Security, 2024 Model, NP960XGK-KG1US, Moonstone Gray",
+        "reviews": "4.5 out of 5 stars",
+        "price": "1,399.",
+        "image_url": "https://m.media-amazon.com/images/I/71ysHVMH4FL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:25"
+    },
+    {
+        "title": "Lenovo IdeaPad 3 3i Laptop (15.6\" FHD Touchscreen, Intel Core i5-1155G7, 16GB RAM, 512GB SSD) Narrow Bezel, Webcam, 12-Hr Long Battery Life, Wi-Fi 6, IST SD, Win 11 Home, Business & Home, Abyss Blue",
+        "reviews": "4.2 out of 5 stars",
+        "price": "529.",
+        "image_url": "https://m.media-amazon.com/images/I/81OW0rW2lwL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:25"
+    },
+    {
+        "title": "Dell Inspiron 15 3000 3520 15.6\" FHD Touchscreen (Intel 4-Core i5-1135G7, 32GB RAM, 1TB PCIe SSD, UHD Graphics) Business Laptop, WVA Anti-Glare, Numeric Keypad, Webcam, Wi-Fi, Win 11 Pro - 2024 Black",
+        "reviews": "4.1 out of 5 stars",
+        "price": "589.",
+        "image_url": "https://m.media-amazon.com/images/I/61apmtXrgQL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:25"
+    },
+    {
+        "title": "Targus CityLite Laptop Briefcase Shoulder Messenger Bag for 15.6-Inch Laptop, Black (TBT053US)",
+        "reviews": "4.6 out of 5 stars",
+        "price": "36.",
+        "image_url": "https://m.media-amazon.com/images/I/718IO7MawyL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:25"
+    },
+    {
+        "title": "SAMSUNG 14\" Galaxy Book4 Pro Laptop PC Computer, Intel Core 7 Ultra Processor 512GB, 3K AMOLED (2880 x 1800) Touchscreen, Advanced Security, 2024 Model, NP940XGK-KG1US, Moonstone Gray",
+        "reviews": "4.0 out of 5 stars",
+        "price": "1,400.",
+        "image_url": "https://m.media-amazon.com/images/I/6131ZgIFn1L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:25"
+    },
+    {
+        "title": "HP EliteBook 845 Business Laptop (14\" FHD, AMD Ryzen 5 PRO 5650U, 32GB RAM, 1TB SSD, > Intel i5-1145G7) 3-Yr Warranty, Long Battery Life, Backlit, Fingerprint, Wi-Fi 6E, Webcam, Win 11 Pro, Silver",
+        "reviews": "4.3 out of 5 stars",
+        "price": "649.",
+        "image_url": "https://m.media-amazon.com/images/I/71b1KNPVIGL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:25"
+    },
+    {
+        "title": "2017 Apple Macbook Air with 1.8GHz Intel Core i5 (13-inch, 8GB RAM, 128GB SSD Storage) (QWERTY English) Silver (Renewed)",
+        "reviews": "4.1 out of 5 stars",
+        "price": "214.",
+        "image_url": "https://m.media-amazon.com/images/I/91wYB53Y4aL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:25"
+    },
+    {
+        "title": "Alienware Pro Wireless Gaming Keyboard - Bluetooth 5.1/2.4 GHz Radio Frequency Connectivity, Linear Mechanical, Hot-swappable switches, Tri Mode connectivity, Adjustable Height - Lunar Light",
+        "reviews": "4.4 out of 5 stars",
+        "price": "199.",
+        "image_url": "https://m.media-amazon.com/images/I/7101PJa80yL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:25"
+    },
+    {
+        "title": "Lenovo USB-C Slim Travel Dock, 8 Ports, Up to 65W PD Pass Through, Integrated USB-C Cable, 4K Display Support, Black",
+        "reviews": "4.7 out of 5 stars",
+        "price": "49.",
+        "image_url": "https://m.media-amazon.com/images/I/51bkf0SxMhL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:25"
+    },
+    {
+        "title": "Acer USB Type-C Dock D501 Certified Works With Chromebook | 2x HDMI 2.0 | 2x DP | 1 x USB Type-C | 2 x USB 3.1 Gen2 | 4 x USB 3.1 Gen1 | Ethernet | Requires USB 3.1 Type A or USB Type-C on Computer",
+        "reviews": "4.2 out of 5 stars",
+        "price": "157.",
+        "image_url": "https://m.media-amazon.com/images/I/719Y+8bstJL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:29"
+    },
+    {
+        "title": "Alienware Pro Wireless Gaming Keyboard - Bluetooth 5.1/2.4 GHz Radio Frequency Connectivity, Linear Mechanical, Hot-swappable switches, Tri Mode connectivity, Adjustable Height - Lunar Light",
+        "reviews": "4.4 out of 5 stars",
+        "price": "199.",
+        "image_url": "https://m.media-amazon.com/images/I/7101PJa80yL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:29"
+    },
+    {
+        "title": "Dell Inspiron 15 3000 3520 15.6\" FHD Touchscreen (Intel 4-Core i5-1135G7, 16GB RAM, 512GB PCIe SSD, UHD Graphics) Business Laptop, WVA Anti-Glare, Numeric Keypad, Webcam, Wi-Fi, Win 11 Pro, Black",
+        "reviews": "4.1 out of 5 stars",
+        "price": "478.",
+        "image_url": "https://m.media-amazon.com/images/I/61ZYlsZLonL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:29"
+    },
+    {
+        "title": "Dell Inspiron 15 15.6\" Laptop (FHD Touchscreen, AMD Ryzen 5 7530U, 16GB RAM, 1TB PCIe SSD, (6-Core Beat i7-1165G7) ) Numeric Keypad, Webcam, 2023 Inspiron 3000 3535, Win 11 Home, Carbon Black",
+        "reviews": "4.2 out of 5 stars",
+        "price": "559.",
+        "image_url": "https://m.media-amazon.com/images/I/61BU3LU94FL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:29"
+    },
+    {
+        "title": "HP 14 Laptop (14\" Micro-Edge, Intel N4120, 16GB RAM, 192GB(64GB eMMC+128GB SD), 1-Yr Microsoft 365, 11-Hrs Long Battery Life, Narrow-Bezel, Webcam, WiFi, Win 11 Home in S Mode, Student & Home, White",
+        "reviews": "4.4 out of 5 stars",
+        "price": "279.",
+        "image_url": "https://m.media-amazon.com/images/I/61f2UX3wIzL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:29"
+    },
+    {
+        "title": "SAMSUNG 14\" Galaxy Book4 Pro Laptop PC Computer, Intel Core 7 Ultra Processor 512GB, 3K AMOLED (2880 x 1800) Touchscreen, Advanced Security, 2024 Model, NP940XGK-KG1US, Moonstone Gray",
+        "reviews": "4.0 out of 5 stars",
+        "price": "1,400.",
+        "image_url": "https://m.media-amazon.com/images/I/6131ZgIFn1L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:29"
+    },
+    {
+        "title": "Targus CityLite Laptop Briefcase Shoulder Messenger Bag for 15.6-Inch Laptop, Black (TBT053US)",
+        "reviews": "4.6 out of 5 stars",
+        "price": "36.",
+        "image_url": "https://m.media-amazon.com/images/I/718IO7MawyL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:29"
+    },
+    {
+        "title": "Apple 2024 MacBook Air 13-inch Laptop with M3 chip: 8GB Memory, 256GB Storage; Starlight with AppleCare+ (3 Years)",
+        "reviews": "4.7 out of 5 stars",
+        "price": "1,098.",
+        "image_url": "https://m.media-amazon.com/images/I/61IU99MrvIL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:29"
+    },
+    {
+        "title": "HP 15 Laptop, AMD Ryzen 3-5300U Processor, 8 GB RAM, 256 GB SSD Storage, 15.6-inch HD Micro-Edge Display, Windows 11 Home, Long-Lasting Battery, Fast Charge, 720p Webcam (15-ef2024nr), Natural silver",
+        "reviews": "4.3 out of 5 stars",
+        "price": "338.",
+        "image_url": "https://m.media-amazon.com/images/I/71n-87mU61L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:29"
+    },
+    {
+        "title": "HP 17 Laptop (17.3\" FHD Anti-glare, Intel 12th Gen 10-Core i7-1255U, 32GB RAM, 1TB SSD) Home & Business Laptop, Long Battery Life, Numpad, Fast Charge, Webcam, Wi-Fi, IST Cable, Win 11 Home, Black",
+        "reviews": "5.0 out of 5 stars",
+        "price": "799.",
+        "image_url": "https://m.media-amazon.com/images/I/71VCVbyTtnL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:29"
+    },
+    {
+        "title": "ZAGG Pro Keys Detachable Case and Wireless Keyboard for Apple iPad Pro 10.2\", Multi-Device Bluetooth Pairing, Backlit Laptop-Style Keys, Apple Pencil Holder, 6.6ft Drop Protection, Lightweight, Black",
+        "reviews": "4.3 out of 5 stars",
+        "price": "69.",
+        "image_url": "https://m.media-amazon.com/images/I/71QnBnTSMjL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:29"
+    },
+    {
+        "title": "UBeesize 10.5in Laptop Ring Light with Stand and Phone Holder for Desk, Zoom Lighting for Computer, Video Recording, Streaming, Video Conference, Video Calls",
+        "reviews": "4.5 out of 5 stars",
+        "price": "35.",
+        "image_url": "https://m.media-amazon.com/images/I/61VUD60G-aL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:29"
+    },
+    {
+        "title": "Acer USB Type-C Dock D501 Certified Works With Chromebook | 2x HDMI 2.0 | 2x DP | 1 x USB Type-C | 2 x USB 3.1 Gen2 | 4 x USB 3.1 Gen1 | Ethernet | Requires USB 3.1 Type A or USB Type-C on Computer",
+        "reviews": "4.2 out of 5 stars",
+        "price": "157.",
+        "image_url": "https://m.media-amazon.com/images/I/719Y+8bstJL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:33"
+    },
+    {
+        "title": "Alienware Pro Wireless Gaming Keyboard - Bluetooth 5.1/2.4 GHz Radio Frequency Connectivity, Linear Mechanical, Hot-swappable switches, Tri Mode connectivity, Adjustable Height - Lunar Light",
+        "reviews": "4.4 out of 5 stars",
+        "price": "199.",
+        "image_url": "https://m.media-amazon.com/images/I/7101PJa80yL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:33"
+    },
+    {
+        "title": "Dell Latitude 5330 Business Laptop (13.3\" FHD, Intel 10-Core i7-1265U Vpro, 16GB RAM, 512GB SSD, IST Card) 2 x Thunderbolt 4, Backlit, Fingerprint, Webcam, NFC, 2024 Latitude 5000, Win 11 Pro, Gray",
+        "reviews": "4.4 out of 5 stars",
+        "price": "799.",
+        "image_url": "https://m.media-amazon.com/images/I/71fBX437GTL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:33"
+    },
+    {
+        "title": "Acer Chromebook Spin 311 Convertible Laptop, Intel Celeron N4020, 11.6\" HD Touch, 4GB LPDDR4, 32GB eMMC, Gigabit Wi-Fi 5, Bluetooth 5.0, Google Chrome, CP311-2H-C679",
+        "reviews": "4.5 out of 5 stars",
+        "price": "228.",
+        "image_url": "https://m.media-amazon.com/images/I/61dsJm45m3L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:33"
+    },
+    {
+        "title": "acer Aspire 1 A115-32-C96U Home & Student Slim Laptop (15.6\" FHD, Intel Celeron N4500, 16GB RAM, 512GB SSD, UHD Graphics) 1-Year Office 365, Ethernet, Wi-Fi, Webcam, IST HDMI, Win 11 Home, Silver",
+        "reviews": "4.5 out of 5 stars",
+        "price": "349.",
+        "image_url": "https://m.media-amazon.com/images/I/71fvVqOKyLL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:33"
+    },
+    {
+        "title": "SAMSUNG 14\" Galaxy Book4 Pro Laptop PC Computer, Intel Core 7 Ultra Processor 512GB, 3K AMOLED (2880 x 1800) Touchscreen, Advanced Security, 2024 Model, NP940XGK-KG1US, Moonstone Gray",
+        "reviews": "4.0 out of 5 stars",
+        "price": "1,400.",
+        "image_url": "https://m.media-amazon.com/images/I/6131ZgIFn1L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:33"
+    },
+    {
+        "title": "Targus CityLite Laptop Briefcase Shoulder Messenger Bag for 15.6-Inch Laptop, Black (TBT053US)",
+        "reviews": "4.6 out of 5 stars",
+        "price": "36.",
+        "image_url": "https://m.media-amazon.com/images/I/718IO7MawyL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:33"
+    },
+    {
+        "title": "Dell Inspiron 15 3000 Series 3511 Laptop, 15.6\" FHD Touchscreen, Intel Core i5-1035G1, 32GB DDR4 RAM, 1TB PCIe SSD, SD Card Reader, Webcam, HDMI, Wi-Fi, Windows 11 Home, Black",
+        "reviews": "4.1 out of 5 stars",
+        "price": "532.",
+        "image_url": "https://m.media-amazon.com/images/I/61KwCmF0bdL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:33"
+    },
+    {
+        "title": "Lenovo ThinkPad X13 Gen 2 Business Laptop (13.3\" FHD+ Touchscreen, Intel EVO Core i7-1185G7, 16GB RAM, 512GB PCIe SSD) Light Weight, Backlit, FP, Wi-Fi, Webcam, 3-Yr Warranty, IST Cable, Win 11 Pro",
+        "reviews": "4.8 out of 5 stars",
+        "price": "849.",
+        "image_url": "https://m.media-amazon.com/images/I/71GT-zLBqdL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:33"
+    },
+    {
+        "title": "ZAGG Pro Keys Detachable Case and Wireless Keyboard for Apple iPad Pro 10.2\", Multi-Device Bluetooth Pairing, Backlit Laptop-Style Keys, Apple Pencil Holder, 6.6ft Drop Protection, Lightweight, Black",
+        "reviews": "4.3 out of 5 stars",
+        "price": "69.",
+        "image_url": "https://m.media-amazon.com/images/I/71QnBnTSMjL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:33"
+    },
+    {
+        "title": "Lenovo USB-C Slim Travel Dock, 8 Ports, Up to 65W PD Pass Through, Integrated USB-C Cable, 4K Display Support, Black",
+        "reviews": "4.7 out of 5 stars",
+        "price": "49.",
+        "image_url": "https://m.media-amazon.com/images/I/51bkf0SxMhL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:33"
+    },
+    {
+        "title": "Lenovo USB-C Slim Travel Dock, 8 Ports, Up to 65W PD Pass Through, Integrated USB-C Cable, 4K Display Support, Black",
+        "reviews": "4.7 out of 5 stars",
+        "price": "49.",
+        "image_url": "https://m.media-amazon.com/images/I/51bkf0SxMhL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:38"
+    },
+    {
+        "title": "Acer USB Type-C Dock D501 Certified Works With Chromebook | 2x HDMI 2.0 | 2x DP | 1 x USB Type-C | 2 x USB 3.1 Gen2 | 4 x USB 3.1 Gen1 | Ethernet | Requires USB 3.1 Type A or USB Type-C on Computer",
+        "reviews": "4.2 out of 5 stars",
+        "price": "157.",
+        "image_url": "https://m.media-amazon.com/images/I/719Y+8bstJL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:38"
+    },
+    {
+        "title": "HP 15.6\" Touchscreen Newest Flagship HD Laptop, Intel i3-1115G4 up to 4.1GHz (Beat i5-1035G4), 16GB RAM, 1TB NVMe SSD, Fast Charge, Numpad, Bluetooth, Wi-Fi, HDMI, Win 11 Home S,w/GM Accessories",
+        "reviews": "4.3 out of 5 stars",
+        "price": "460.",
+        "image_url": "https://m.media-amazon.com/images/I/81LKz2gs0SL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:38"
+    },
+    {
+        "title": "HP 2023 Newest Laptop Pavilion 17.3\" HD+ Laptop Computer, AMD Ryzen 3 7320U(Up to 4.1GHz, Beat i3-1125G4), AMD Radeon Graphics, 8GB DDR5 RAM, 1TB NVMe SSD, WiFi 6, HDMI, Numeric Keypad, Windows 11",
+        "reviews": "4.3 out of 5 stars",
+        "price": "442.",
+        "image_url": "https://m.media-amazon.com/images/I/61SSAt4EirL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:38"
+    },
+    {
+        "title": "SAMSUNG 14\" Galaxy Book4 Pro Laptop PC Computer, Intel Core 7 Ultra Processor 512GB, 3K AMOLED (2880 x 1800) Touchscreen, Advanced Security, 2024 Model, NP940XGK-KG1US, Moonstone Gray",
+        "reviews": "4.0 out of 5 stars",
+        "price": "1,400.",
+        "image_url": "https://m.media-amazon.com/images/I/6131ZgIFn1L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:38"
+    },
+    {
+        "title": "Targus CityLite Laptop Briefcase Shoulder Messenger Bag for 15.6-Inch Laptop, Black (TBT053US)",
+        "reviews": "4.6 out of 5 stars",
+        "price": "36.",
+        "image_url": "https://m.media-amazon.com/images/I/718IO7MawyL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:38"
+    },
+    {
+        "title": "HP Newest Pavilion 15.6\" FHD Touchscreen Anti-Glare Laptop, 12GB RAM, 512GB SSD Storage, Intel Core i3-1215U, Up to 11 Hours Long Battery Life, Type-C, HDMI, Windows 11 Home, Silver",
+        "reviews": "3.8 out of 5 stars",
+        "price": "383.",
+        "image_url": "https://m.media-amazon.com/images/I/71KpU7xc48L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:38"
+    },
+    {
+        "title": "Rugged Laptop with I5-8250U Quad Core, 8 Thread CPU, 16GB RAM512GB SSD, inch 1080p Screen, Tenacious Model in, 13.3, Rose Gold, 14626167",
+        "reviews": "2.9 out of 5 stars",
+        "price": "199.",
+        "image_url": "https://m.media-amazon.com/images/I/51ZNaeQ0gNL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:38"
+    },
+    {
+        "title": "Lenovo IdeaPad 3 15.6\" FHD Touchscreen Laptop (16GB RAM, 512GB SSD, Intel Core i3 (> i5-1035G7)) Narrow Bezel, Webcam, 12-Hr Long Battery Life, NumPad, IST SD, Win 11 Home, Home & School - Grey",
+        "reviews": "4.1 out of 5 stars",
+        "price": "429.",
+        "image_url": "https://m.media-amazon.com/images/I/61y1FseGRxL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:38"
+    },
+    {
+        "title": "HP 15.6 inch Laptop, Intel Core i5-1135G7 Processor, 15.6\" FHD Anti-Glare LED Display, HDMI, Wi-Fi and Bluetooth, Lightweight Design, Fast Charge, Windows 11 Home (32GB RAM | 1TB SSD)",
+        "reviews": "3.9 out of 5 stars",
+        "price": "519.",
+        "image_url": "https://m.media-amazon.com/images/I/71KQlw+d-yL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:38"
+    },
+    {
+        "title": "HP 15 inch Laptop, HD Display, AMD Ryzen 5 5500U, 8 GB RAM, 256 GB SSD, AMD Radeon Graphics, Windows 11 Home, 15-ef2099nr (2023),Silver",
+        "reviews": "4.4 out of 5 stars",
+        "price": "360.",
+        "image_url": "https://m.media-amazon.com/images/I/81doZ6WLZ3L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:38"
+    },
+    {
+        "title": "ZAGG Pro Keys Detachable Case and Wireless Keyboard for Apple iPad Pro 10.2\", Multi-Device Bluetooth Pairing, Backlit Laptop-Style Keys, Apple Pencil Holder, 6.6ft Drop Protection, Lightweight, Black",
+        "reviews": "4.3 out of 5 stars",
+        "price": "69.",
+        "image_url": "https://m.media-amazon.com/images/I/71QnBnTSMjL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:38"
+    },
+    {
+        "title": "Alienware Pro Wireless Gaming Keyboard - Bluetooth 5.1/2.4 GHz Radio Frequency Connectivity, Linear Mechanical, Hot-swappable switches, Tri Mode connectivity, Adjustable Height - Lunar Light",
+        "reviews": "4.4 out of 5 stars",
+        "price": "199.",
+        "image_url": "https://m.media-amazon.com/images/I/7101PJa80yL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:38"
+    },
+    {
+        "title": "Alienware Pro Wireless Gaming Keyboard - Bluetooth 5.1/2.4 GHz Radio Frequency Connectivity, Linear Mechanical, Hot-swappable switches, Tri Mode connectivity, Adjustable Height - Lunar Light",
+        "reviews": "4.4 out of 5 stars",
+        "price": "199.",
+        "image_url": "https://m.media-amazon.com/images/I/7101PJa80yL._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "StarTech.com USB C Multiport Adapter, 4K 60Hz HDMI Video, 3 Port 5Gbps USB Hub, 100W Power Delivery Pass-Through, GbE, 12\"/30cm Cable, Mini Travel Dock, Laptop Docking Station (127B-USBC-MULTIPORT)",
+        "reviews": "4.3 out of 5 stars",
+        "price": "53.",
+        "image_url": "https://m.media-amazon.com/images/I/71JJZ9LC1OL._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "UBeesize 10.5in Laptop Ring Light with Stand and Phone Holder for Desk, Zoom Lighting for Computer, Video Recording, Streaming, Video Conference, Video Calls",
+        "reviews": "4.5 out of 5 stars",
+        "price": "35.",
+        "image_url": "https://m.media-amazon.com/images/I/61VUD60G-aL._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "USB C Hub Docking Station, 4-in-1 USB C Adapter with Dual 4K HDMI Ports, 100W Power Delivery Port, USB A 3.0 5Gbps Data Port Compatible with Chromebook, More Type C Devices",
+        "reviews": "Amazon Music offer with this purchase",
+        "price": "15.",
+        "image_url": "https://m.media-amazon.com/images/I/61VnW5DqTEL._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "Laptop Lifestyle in Digital Marketing: An intro to Passive Income",
+        "reviews": "5.0 out of 5 stars",
+        "price": "0.",
+        "image_url": "https://m.media-amazon.com/images/I/71Dx30OvhUL._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "Laptops for Seniors in easy steps: Covers all laptops using Windows 10",
+        "reviews": "4.3 out of 5 stars",
+        "price": "14.",
+        "image_url": "https://m.media-amazon.com/images/I/81uJZMzEWeL._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "Case Logic Laptop Bags",
+        "reviews": "4.7 out of 5 stars",
+        "price": "30.",
+        "image_url": "https://m.media-amazon.com/images/I/91LqyRDrIuL._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "SwissGear 1900 Scansmart TSA 17 Laptop Backpack, Black, 19-Inch",
+        "reviews": "4.6 out of 5 stars",
+        "price": "71.",
+        "image_url": "https://m.media-amazon.com/images/I/81l8OWWzb4L._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "Lenovo Laptop Backpack B210, 15.6-Inch Laptop/Tablet, Durable, Water-Repellent, Lightweight, Clean Design, Sleek for Travel, Business Casual or College, GX40Q17225, Black",
+        "reviews": "4.6 out of 5 stars",
+        "price": "16.",
+        "image_url": "https://m.media-amazon.com/images/I/61hN3WaCRGL._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "Laplink PCmover Ultimate 11 - Easily Move your Applications - Files and Settings from an Old PC to a New PC - Includes Optional Ethernet Cable - 1 Use",
+        "reviews": "4.1 out of 5 stars",
+        "price": "49.",
+        "image_url": "https://m.media-amazon.com/images/I/51MC+P+rEpL._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "Ergonomic Mouse Wireless,Rechargeable Vertical Mouse with USB Receiver,6 Buttons 800/1200/1600 Computer Mouse for Laptop PC(Right Hand,Black)",
+        "reviews": "4.2 out of 5 stars",
+        "price": "19.",
+        "image_url": "https://m.media-amazon.com/images/I/61bSH2IYSRL._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "Laptop Brands Info",
+        "reviews": "0",
+        "price": "0.",
+        "image_url": "https://m.media-amazon.com/images/I/31xxFEGAYwL._AC_UL320_.png",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "The American Sign Language Handshape Dictionary DVD",
+        "reviews": "4.7 out of 5 stars",
+        "price": "24.",
+        "image_url": "https://m.media-amazon.com/images/I/41c5IHqZrYL._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "Don't Try This at Home by Laptop",
+        "reviews": "4.0 out of 5 stars",
+        "price": "295.",
+        "image_url": "https://m.media-amazon.com/images/I/51a7DIZaO9L._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "THE NORTH FACE Vault Everyday Laptop Backpack, Khaki Stone/TNF Black, One Size",
+        "reviews": "4.0 out of 5 stars",
+        "price": "65.",
+        "image_url": "https://m.media-amazon.com/images/I/91MItGiCk6L._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "Laptop Theologian: Sincere Ministry: Ministering from the Heart",
+        "reviews": "5.0 out of 5 stars",
+        "price": "3.",
+        "image_url": "https://m.media-amazon.com/images/I/71r4Hg2Qx6L._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "MICROSOFT SURFACE LAPTOP GO USER GUIDE: The Beginner to Expert Guide to Master the Microsoft Surface Laptop GO",
+        "reviews": "2.6 out of 5 stars",
+        "price": "9.",
+        "image_url": "https://m.media-amazon.com/images/I/61FVE3qzBpL._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "SAMSUNG 14\" Galaxy Book4 Pro Laptop PC Computer, Intel Core 7 Ultra Processor 512GB, 3K AMOLED (2880 x 1800) Touchscreen, Advanced Security, 2024 Model, NP940XGK-KG1US, Moonstone Gray",
+        "reviews": "4.0 out of 5 stars",
+        "price": "1,400.",
+        "image_url": "https://m.media-amazon.com/images/I/6131ZgIFn1L._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "Chariot CH-513 Duro Grey 20\" Laptop 20\" Carry On",
+        "reviews": "0",
+        "price": "79.",
+        "image_url": "https://m.media-amazon.com/images/I/81urEptZo5L._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "Targus CityLite Laptop Briefcase Shoulder Messenger Bag for 15.6-Inch Laptop, Black (TBT053US)",
+        "reviews": "4.6 out of 5 stars",
+        "price": "36.",
+        "image_url": "https://m.media-amazon.com/images/I/718IO7MawyL._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "ZAGG Pro Keys Detachable Case and Wireless Keyboard for Apple iPad Pro 10.2\", Multi-Device Bluetooth Pairing, Backlit Laptop-Style Keys, Apple Pencil Holder, 6.6ft Drop Protection, Lightweight, Black",
+        "reviews": "4.3 out of 5 stars",
+        "price": "69.",
+        "image_url": "https://m.media-amazon.com/images/I/71QnBnTSMjL._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "Lenovo USB-C Slim Travel Dock, 8 Ports, Up to 65W PD Pass Through, Integrated USB-C Cable, 4K Display Support, Black",
+        "reviews": "4.7 out of 5 stars",
+        "price": "49.",
+        "image_url": "https://m.media-amazon.com/images/I/51bkf0SxMhL._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "ZAGG 11+ Standard Protective Laptop Sleeve \u2013 Fits 11-13 Inch Tablets, Chromebooks, and Laptops, Water-Resistant Neoprene Case with ID Holder",
+        "reviews": "0",
+        "price": "14.",
+        "image_url": "https://m.media-amazon.com/images/I/61en4Q2lg1L._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "Your Mandala: Notebook Da Colorare (Italian Edition)",
+        "reviews": "0",
+        "price": "6.",
+        "image_url": "https://m.media-amazon.com/images/I/61WN7P4X47L._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "Everki Studio Expandable 15 Inch MacBook & Laptop Backpack for Men & Women, Travel Friendly Backpack, Professional Office Backpack for Men, Bookbag and Computer Backpack, Offers 26L Capacity - Black",
+        "reviews": "4.3 out of 5 stars",
+        "price": "149.",
+        "image_url": "https://m.media-amazon.com/images/I/913ABGWYRbL._AC_UL320_.jpg",
+        "scrape_date": "2024-08-01 03:03:42"
+    },
+    {
+        "title": "Acer USB Type-C Dock D501 Certified Works With Chromebook | 2x HDMI 2.0 | 2x DP | 1 x USB Type-C | 2 x USB 3.1 Gen2 | 4 x USB 3.1 Gen1 | Ethernet | Requires USB 3.1 Type A or USB Type-C on Computer",
+        "reviews": "4.2 out of 5 stars",
+        "price": "157.",
+        "image_url": "https://m.media-amazon.com/images/I/719Y+8bstJL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:46"
+    },
+    {
+        "title": "Alienware Pro Wireless Gaming Keyboard - Bluetooth 5.1/2.4 GHz Radio Frequency Connectivity, Linear Mechanical, Hot-swappable switches, Tri Mode connectivity, Adjustable Height - Lunar Light",
+        "reviews": "4.4 out of 5 stars",
+        "price": "199.",
+        "image_url": "https://m.media-amazon.com/images/I/7101PJa80yL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:46"
+    },
+    {
+        "title": "SAMSUNG 14\" Galaxy Book4 Pro Laptop PC Computer, Intel Core 7 Ultra Processor 512GB, 3K AMOLED (2880 x 1800) Touchscreen, Advanced Security, 2024 Model, NP940XGK-KG1US, Moonstone Gray",
+        "reviews": "4.0 out of 5 stars",
+        "price": "1,400.",
+        "image_url": "https://m.media-amazon.com/images/I/6131ZgIFn1L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:46"
+    },
+    {
+        "title": "Targus CityLite Laptop Briefcase Shoulder Messenger Bag for 15.6-Inch Laptop, Black (TBT053US)",
+        "reviews": "4.6 out of 5 stars",
+        "price": "36.",
+        "image_url": "https://m.media-amazon.com/images/I/718IO7MawyL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:46"
+    },
+    {
+        "title": "ZAGG Pro Keys Detachable Case and Wireless Keyboard for Apple iPad Pro 10.2\", Multi-Device Bluetooth Pairing, Backlit Laptop-Style Keys, Apple Pencil Holder, 6.6ft Drop Protection, Lightweight, Black",
+        "reviews": "4.3 out of 5 stars",
+        "price": "69.",
+        "image_url": "https://m.media-amazon.com/images/I/71QnBnTSMjL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:46"
+    },
+    {
+        "title": "Lenovo USB-C Slim Travel Dock, 8 Ports, Up to 65W PD Pass Through, Integrated USB-C Cable, 4K Display Support, Black",
+        "reviews": "4.7 out of 5 stars",
+        "price": "49.",
+        "image_url": "https://m.media-amazon.com/images/I/51bkf0SxMhL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:46"
+    },
+    {
+        "title": "Acer USB Type-C Dock D501 Certified Works With Chromebook | 2x HDMI 2.0 | 2x DP | 1 x USB Type-C | 2 x USB 3.1 Gen2 | 4 x USB 3.1 Gen1 | Ethernet | Requires USB 3.1 Type A or USB Type-C on Computer",
+        "reviews": "4.2 out of 5 stars",
+        "price": "157.",
+        "image_url": "https://m.media-amazon.com/images/I/719Y+8bstJL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:51"
+    },
+    {
+        "title": "Alienware Pro Wireless Gaming Keyboard - Bluetooth 5.1/2.4 GHz Radio Frequency Connectivity, Linear Mechanical, Hot-swappable switches, Tri Mode connectivity, Adjustable Height - Lunar Light",
+        "reviews": "4.4 out of 5 stars",
+        "price": "199.",
+        "image_url": "https://m.media-amazon.com/images/I/7101PJa80yL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:51"
+    },
+    {
+        "title": "SAMSUNG 14\" Galaxy Book4 Pro Laptop PC Computer, Intel Core 7 Ultra Processor 512GB, 3K AMOLED (2880 x 1800) Touchscreen, Advanced Security, 2024 Model, NP940XGK-KG1US, Moonstone Gray",
+        "reviews": "4.0 out of 5 stars",
+        "price": "1,400.",
+        "image_url": "https://m.media-amazon.com/images/I/6131ZgIFn1L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:51"
+    },
+    {
+        "title": "Targus CityLite Laptop Briefcase Shoulder Messenger Bag for 15.6-Inch Laptop, Black (TBT053US)",
+        "reviews": "4.6 out of 5 stars",
+        "price": "36.",
+        "image_url": "https://m.media-amazon.com/images/I/718IO7MawyL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:51"
+    },
+    {
+        "title": "ZAGG Pro Keys Detachable Case and Wireless Keyboard for Apple iPad Pro 10.2\", Multi-Device Bluetooth Pairing, Backlit Laptop-Style Keys, Apple Pencil Holder, 6.6ft Drop Protection, Lightweight, Black",
+        "reviews": "4.3 out of 5 stars",
+        "price": "69.",
+        "image_url": "https://m.media-amazon.com/images/I/71QnBnTSMjL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:51"
+    },
+    {
+        "title": "Lenovo USB-C Slim Travel Dock, 8 Ports, Up to 65W PD Pass Through, Integrated USB-C Cable, 4K Display Support, Black",
+        "reviews": "4.7 out of 5 stars",
+        "price": "49.",
+        "image_url": "https://m.media-amazon.com/images/I/51bkf0SxMhL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:51"
+    },
+    {
+        "title": "Acer USB Type-C Dock D501 Certified Works With Chromebook | 2x HDMI 2.0 | 2x DP | 1 x USB Type-C | 2 x USB 3.1 Gen2 | 4 x USB 3.1 Gen1 | Ethernet | Requires USB 3.1 Type A or USB Type-C on Computer",
+        "reviews": "4.2 out of 5 stars",
+        "price": "157.",
+        "image_url": "https://m.media-amazon.com/images/I/719Y+8bstJL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:55"
+    },
+    {
+        "title": "Alienware Pro Wireless Gaming Keyboard - Bluetooth 5.1/2.4 GHz Radio Frequency Connectivity, Linear Mechanical, Hot-swappable switches, Tri Mode connectivity, Adjustable Height - Lunar Light",
+        "reviews": "4.4 out of 5 stars",
+        "price": "199.",
+        "image_url": "https://m.media-amazon.com/images/I/7101PJa80yL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:55"
+    },
+    {
+        "title": "SAMSUNG 14\" Galaxy Book4 Pro Laptop PC Computer, Intel Core 7 Ultra Processor 512GB, 3K AMOLED (2880 x 1800) Touchscreen, Advanced Security, 2024 Model, NP940XGK-KG1US, Moonstone Gray",
+        "reviews": "4.0 out of 5 stars",
+        "price": "1,400.",
+        "image_url": "https://m.media-amazon.com/images/I/6131ZgIFn1L._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:55"
+    },
+    {
+        "title": "ZAGG Pro Keys Detachable Case and Wireless Keyboard for Apple iPad Pro 10.2\", Multi-Device Bluetooth Pairing, Backlit Laptop-Style Keys, Apple Pencil Holder, 6.6ft Drop Protection, Lightweight, Black",
+        "reviews": "4.3 out of 5 stars",
+        "price": "69.",
+        "image_url": "https://m.media-amazon.com/images/I/71QnBnTSMjL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:55"
+    },
+    {
+        "title": "Targus CityLite Laptop Briefcase Shoulder Messenger Bag for 15.6-Inch Laptop, Black (TBT053US)",
+        "reviews": "4.6 out of 5 stars",
+        "price": "36.",
+        "image_url": "https://m.media-amazon.com/images/I/718IO7MawyL._AC_UY218_.jpg",
+        "scrape_date": "2024-08-01 03:03:55"
+    }
+]
